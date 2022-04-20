@@ -1,0 +1,16 @@
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/bin/Debug/net5.0/AbstractFactoryExample
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/bin/Debug/net5.0/AbstractFactoryExample.deps.json
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/bin/Debug/net5.0/AbstractFactoryExample.runtimeconfig.json
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/bin/Debug/net5.0/AbstractFactoryExample.runtimeconfig.dev.json
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/bin/Debug/net5.0/AbstractFactoryExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/bin/Debug/net5.0/ref/AbstractFactoryExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/bin/Debug/net5.0/AbstractFactoryExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/obj/Debug/net5.0/AbstractFactoryExample.csproj.AssemblyReference.cache
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/obj/Debug/net5.0/AbstractFactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/obj/Debug/net5.0/AbstractFactoryExample.AssemblyInfoInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/obj/Debug/net5.0/AbstractFactoryExample.AssemblyInfo.cs
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/obj/Debug/net5.0/AbstractFactoryExample.csproj.CoreCompileInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/obj/Debug/net5.0/AbstractFactoryExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/obj/Debug/net5.0/ref/AbstractFactoryExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/obj/Debug/net5.0/AbstractFactoryExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/AbstractFactoryExample/obj/Debug/net5.0/AbstractFactoryExample.genruntimeconfig.cache

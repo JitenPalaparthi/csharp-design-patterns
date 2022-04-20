@@ -1,0 +1,16 @@
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/bin/Debug/net5.0/VirtualExample
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/bin/Debug/net5.0/VirtualExample.deps.json
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/bin/Debug/net5.0/VirtualExample.runtimeconfig.json
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/bin/Debug/net5.0/VirtualExample.runtimeconfig.dev.json
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/bin/Debug/net5.0/VirtualExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/bin/Debug/net5.0/ref/VirtualExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/bin/Debug/net5.0/VirtualExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/obj/Debug/net5.0/VirtualExample.csproj.AssemblyReference.cache
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/obj/Debug/net5.0/VirtualExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/obj/Debug/net5.0/VirtualExample.AssemblyInfoInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/obj/Debug/net5.0/VirtualExample.AssemblyInfo.cs
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/obj/Debug/net5.0/VirtualExample.csproj.CoreCompileInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/obj/Debug/net5.0/VirtualExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/obj/Debug/net5.0/ref/VirtualExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/obj/Debug/net5.0/VirtualExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/VirtualExample/obj/Debug/net5.0/VirtualExample.genruntimeconfig.cache

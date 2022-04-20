@@ -1,0 +1,16 @@
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/bin/Debug/net5.0/InterfaceExample
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/bin/Debug/net5.0/InterfaceExample.deps.json
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/bin/Debug/net5.0/InterfaceExample.runtimeconfig.json
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/bin/Debug/net5.0/InterfaceExample.runtimeconfig.dev.json
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/bin/Debug/net5.0/InterfaceExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/bin/Debug/net5.0/ref/InterfaceExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/bin/Debug/net5.0/InterfaceExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/obj/Debug/net5.0/InterfaceExample.csproj.AssemblyReference.cache
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/obj/Debug/net5.0/InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/obj/Debug/net5.0/InterfaceExample.AssemblyInfoInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/obj/Debug/net5.0/InterfaceExample.AssemblyInfo.cs
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/obj/Debug/net5.0/InterfaceExample.csproj.CoreCompileInputs.cache
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/obj/Debug/net5.0/InterfaceExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/obj/Debug/net5.0/ref/InterfaceExample.dll
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/obj/Debug/net5.0/InterfaceExample.pdb
+/home/jiten/workspace/personal/csharp-design-patterns/InterfaceExample/obj/Debug/net5.0/InterfaceExample.genruntimeconfig.cache
